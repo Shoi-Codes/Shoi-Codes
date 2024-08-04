@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Shoi-Codes
+- 👀 I’m interested in web development, particularly creating highly animated and interactive websites.
+- 🌱 I’m currently learning React 
+- 💞️ I’m looking to collaborate on especially those involving advanced animations and interactivity. I’m also open to opportunities related to game development.
+- 📫 How to reach me [mazumdershoishob21@gmail.com]
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am a night owl who wakes up early 🌅🦉
